@@ -127,3 +127,23 @@
 // let a = [1,2,3,4,5];
 // let b = [6,7,8,9];
 // console.log(a.join(" "));
+
+
+// let person = {
+//     name: "alija",
+//     age: 22,
+//     grades: ["a", "b", "c", "d"],
+//     greet: function() {
+//         console.log(this.name);
+//     }
+// };
+// console.log(person);
+
+// let a = ["a", "b", "c", "d", "e", "f", "g", "h"];
+
+// console.log(a.slice(1,5));
+
+// let a = ["a", "b", "c", "d", "e", "f", "g", "h"];
+
+// console.log(a.splice(1,5));
+
